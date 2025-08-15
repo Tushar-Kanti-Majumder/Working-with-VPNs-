@@ -1,0 +1,23 @@
+Summary on VPN Benefits and Limitations
+------------------------------------------------------
+
+Benefits of Using a VPN:
+1.Improved Privacy: A VPN hides your actual IP address and encrypts your internet connection, which prevents anyone, like 		your Internet Service Provider (ISP) or hackers, from snooping on your online activity.
+
+2.Increased Security: VPNs offer protection, especially when you're connected to public Wi-Fi networks in places like cafes or 	airports. Without a VPN, hackers can potentially intercept your data.
+
+3.Access Blocked Content: If you’re trying to access content that’s restricted in your region (like Netflix shows or BBC iPlayer), a 	VPN allows you to connect to servers in other countries to bypass these geo-blocks.
+
+4.Bypass Censorship: In some countries with internet censorship, a VPN can help you access websites and services that might 	otherwise be blocked.
+
+
+--------------------------------
+Limitations of VPNs:
+
+1.Slower Speeds: VPNs can slow down your internet connection because the data needs to be encrypted and routed through a 	remote server, which can introduce delays.
+
+2.Limited Free Server Options: With free VPN services (like ProtonVPN’s free tier), you don’t get access to all of the available 	servers, which can affect both the speed and the locations you can connect to.
+
+3.Not Full Anonymity: While a VPN increases your privacy, it doesn’t make you completely anonymous. Other tracking 	techniques, such as cookies or browser fingerprinting, can still identify you online.
+
+4.IP Leaks: Some VPNs might have issues like DNS or WebRTC leaks, which can expose your real IP address despite being 	connected to a VPN. It's important to regularly check for these leaks to ensure your privacy is intact.

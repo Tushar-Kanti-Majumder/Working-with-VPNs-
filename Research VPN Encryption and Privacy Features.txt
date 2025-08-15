@@ -1,0 +1,17 @@
+Research VPN Encryption and Privacy Features
+-------------------------------------------------------------
+ProtonVPN is designed with strong security measures to protect your privacy:
+
+1.Encryption: ProtonVPN uses AES-256 encryption, which is one of the most secure methods available. This means your data is         encrypted, ensuring that only the intended recipient can access it.
+
+2.Secure Protocols: ProtonVPN supports a variety of secure connection protocols. The most notable ones are:
+
+            ->OpenVPN: Known for being highly secure.
+
+            ->IKEv2/IPSec: Offers a good balance of speed and security, making it ideal for mobile use.
+
+3.No-Logs Policy: One of the main features of ProtonVPN is its strict no-logs policy, which means they don’t track any of your         online activity. This is a key privacy feature that ensures your browsing remains anonymous.
+
+4.Secure Core: ProtonVPN also offers a Secure Core feature, which routes your internet traffic through multiple servers before         reaching the final destination. This makes it even harder to trace your activity back to you.
+
+5.Swiss Privacy Laws: ProtonVPN is based in Switzerland, which has some of the strictest privacy protection laws in the world.        This gives users an added layer of confidence that their data won’t be shared with governments or third parties.
